@@ -1,0 +1,20 @@
+{
+  "main.css": "/myIMDB/static/css/main.4d31a23d.chunk.css",
+  "main.js": "/myIMDB/static/js/main.f48673bd.chunk.js",
+  "main.js.map": "/myIMDB/static/js/main.f48673bd.chunk.js.map",
+  "runtime~main.js": "/myIMDB/static/js/runtime~main.fd5819cc.js",
+  "runtime~main.js.map": "/myIMDB/static/js/runtime~main.fd5819cc.js.map",
+  "static/css/2.df390733.chunk.css": "/myIMDB/static/css/2.df390733.chunk.css",
+  "static/js/2.7d839334.chunk.js": "/myIMDB/static/js/2.7d839334.chunk.js",
+  "static/js/2.7d839334.chunk.js.map": "/myIMDB/static/js/2.7d839334.chunk.js.map",
+  "index.html": "/myIMDB/index.html",
+  "precache-manifest.efb281296f9e748ebfd7f032ce1c3876.js": "/myIMDB/precache-manifest.efb281296f9e748ebfd7f032ce1c3876.js",
+  "service-worker.js": "/myIMDB/service-worker.js",
+  "static/css/2.df390733.chunk.css.map": "/myIMDB/static/css/2.df390733.chunk.css.map",
+  "static/css/main.4d31a23d.chunk.css.map": "/myIMDB/static/css/main.4d31a23d.chunk.css.map",
+  "static/media/frameBlack1.png": "/myIMDB/static/media/frameBlack1.acc98809.png",
+  "static/media/frameBlackLong.png": "/myIMDB/static/media/frameBlackLong.1f5d2f8f.png",
+  "static/media/frameYellow.png": "/myIMDB/static/media/frameYellow.15586deb.png",
+  "static/media/frameYellowLong.png": "/myIMDB/static/media/frameYellowLong.558b1461.png",
+  "static/media/index.css": "/myIMDB/static/media/roboto-latin-900-normal.bb1e4dc6.woff"
+}
