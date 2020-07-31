@@ -35,7 +35,7 @@ class RespPlayer extends Component {
             "headers": {
                 "Access-Control-Allow-Origin": "*",
                 "x-rapidapi-host": "imdb-internet-movie-database-unofficial.p.rapidapi.com",
-                "x-rapidapi-key": "a7107e836emsh1aafb634e89dfbcp1c0494jsnd0020a31fca0",
+                "x-rapidapi-key": "68a0c4661emshb450c98bdee828dp1353d5jsn4270ee570a4b",
             }
         })
             .then(response => {
